@@ -1,0 +1,16 @@
+  body{
+	font-family: arial;
+	padding-left: 50px;
+  }
+img{
+	width: 50%;
+	border-radius: 5px 70px;
+}
+a{
+color: red;
+font-family: tahoma;
+}
+a:hover{
+color: tomato;
+font-family: tahoma;
+}
